@@ -1,0 +1,3 @@
+# Learning Journal: Day 11
+
+Starting on Monday I thought I was getting the hand of coding. I enjoyed our Monday project because it was similar to the Cookie Store project and I was able to practice my skill and it really seemed like I learned a lot. I retained much more information than I thought I did. I worked on the bus mall for about 4 hours and everything went great but then I couldn't figure out how to test against duplicate pictures click after click. I seemed to work for hours at home but still haven't found a solution. This was and is very frustrating. I think I like working in a group coding atmosphere much more than by myself. 
